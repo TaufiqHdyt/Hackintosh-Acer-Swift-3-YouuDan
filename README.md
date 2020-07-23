@@ -1,5 +1,5 @@
 # Hackintosh-Acer-Swift-3-YouuDan
-<<<<<<< HEAD
-=======
-Masih banyak yang perlu di fix
->>>>>>> 4e714f917c0bcfb6186f322603d53c6fe30ad983
+
+<img src="img/10.15.6.png" align="center"/>
+
+Update OpenCore 0.5.9 and Support Catalina 10.15.6

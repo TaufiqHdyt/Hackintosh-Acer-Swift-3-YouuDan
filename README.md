@@ -2,4 +2,4 @@
 
 <img src="img/10.15.6.png" align="center"/>
 
-Update OpenCore 0.5.9 and Support Catalina 10.15.6
+Update OpenCore 0.6.3 and Support Big Sur
